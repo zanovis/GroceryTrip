@@ -4,6 +4,8 @@ GroceryTrip helps you make more sense of your groceries
 GroceryTrip is a Flutter app that helps you gain insight into the overall nutrition, ingredients, and packaging of your groceries. Scan receipts to unlock detailed product info, and contribute to an ever-growing database!
 
 ## :heavy_check_mark: Installation
+You can download the .apk file on your android device by clicking the button below. You may need to 'allow installation from unknown sources' if you've previously only installed apps from the Play Store. 
+
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
     height="80">](https://github.com/zanovis/GroceryTrip/releases)

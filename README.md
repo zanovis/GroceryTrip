@@ -1,7 +1,7 @@
 # GroceryTrip
 GroceryTrip helps you make more sense of your groceries
 
-GroceryTrip is a mobile app that helps you gain insight into the overall nutrition, ingredients, and packaging of your groceries. Scan receipts to unlock detailed product info, and contribute to an ever-growing database!
+GroceryTrip is a Flutter app that helps you gain insight into the overall nutrition, ingredients, and packaging of your groceries. Scan receipts to unlock detailed product info, and contribute to an ever-growing database!
 
 *(You can use the app [Obtainium](https://github.com/ImranR98/Obtainium) to keep GroceryTrip up to date.)*
 

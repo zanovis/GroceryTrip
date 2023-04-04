@@ -1,7 +1,7 @@
 # GroceryTrip
 GroceryTrip helps you make more sense of your groceries
 
-GroceryTrip is an Android app (iOS coming soon) that helps you gain insight into the overall nutrition, ingredients, and packaging of your groceries. Scan receipts to unlock detailed product info, and contribute to an ever-growing database!
+GroceryTrip is an Android app (iOS coming soon) that helps you understand the overall nutrition, ingredients, and packaging (coming soon) of your groceries. Scan receipts to see overall and detailed product info, and contribute to a growing database!
 
 ## :heavy_check_mark: Installation
 You can download the .apk file on your android device by clicking the button below. You may need to 'allow installation from unknown sources' if you've previously only installed apps from the Play Store. 
@@ -14,27 +14,28 @@ You can download the .apk file on your android device by clicking the button bel
 
 ## 🌟 Features
 - Supports: Trader Joe's receipts (limited), barcode-based receipts (limited)
-- Scan receipts for grocery details
-- View compiled nutrition facts, ingredients, and packaging info
+- Scan receipts for product details
+- View compiled nutrition facts
+- View ingredients
 - Submit unrecognized barcodes
+- If product data is missing, you can click a product to contribute to the OpenFoodFacts database (directs to their website, Android app links coming soon!) 
+
 
 ## 🚀 Getting Started
-1. Take a photo of your grocery store receipt
-2. Crop the image to capture just the product names OR barcodes (not both)
-3. Discover overall nutrition, ingredients, and packaging used in your grocery trip
-4. *Optional:* contribute barcodes!
+1. Take a photo of your grocery store receipt (if you don't have one on-hand, you can use the Demo button!)
+2. Crop the image to capture relevant information
+3. Discover overall nutrition, ingredients, and packaging used in your groceries
+4. Contribute barcodes if any are missing (optional)
 
-⚠️ Note: GroceryTrip is in development and is not production-ready. We are working to support more stores and receipt types.
+⚠️ Note: GroceryTrip is in development and is not production-ready. I am working to support more stores and receipt types.
 
 ## 🤝 Contributing
-As the project is not yet open-source, contributions are currently limited to barcode submissions. To contribute, simply use the app to submit any unrecognized barcodes. This will help improve the overall functionality of the app.
-
-Once the project becomes open-source and implements proper authentication, code contributions will be welcomed!
+As the project is not yet open-source, contributions are currently limited to barcode submissions and product data submissions via OpenFoodFacts. To contribute, simply use the app to submit any unrecognized barcodes. This will help improve the overall functionality of the app.
 
 ## 📋 Todo
 - Create roadmap
+- Deploy to Play Store
 - Support more stores (open to suggestions) and receipt types 
-- Implement proper authentication 
 - Open-source project
 - iOS support
 

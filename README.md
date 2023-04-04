@@ -40,4 +40,4 @@ As the project is not yet open-source, contributions are currently limited to ba
 - iOS support
 
 ## 📄 License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the GPLv3 License. See LICENSE for details.

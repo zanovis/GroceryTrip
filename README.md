@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/32601911/230755763-3ed1bb83-a04c-43a6-b9e0-fe8e4dd8a4ed.png" height="206">
+[<img src="https://user-images.githubusercontent.com/32601911/230755763-3ed1bb83-a04c-43a6-b9e0-fe8e4dd8a4ed.png" height="206">](https://github.com/zanovis/GroceryTrip/releases)
 
 # GroceryTrip
 GroceryTrip helps you make more sense of your groceries

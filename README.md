@@ -1,12 +1,16 @@
 [<img src="https://user-images.githubusercontent.com/32601911/230755763-3ed1bb83-a04c-43a6-b9e0-fe8e4dd8a4ed.png" height="206">](https://github.com/zanovis/GroceryTrip/releases)
 
 # GroceryTrip
-GroceryTrip helps you make more sense of your groceries
+### Turn receipts into nutritional insights. 
 
-GroceryTrip is an Android app (iOS coming soon) that helps you understand the overall nutrition, ingredients, and packaging (coming soon) of your groceries. Scan receipts to see overall and detailed product info, and contribute to a growing database!
+GroceryTrip is a Flutter app that helps you view the overall nutrition & ingredients of your groceries more comprehensively. Scan receipts to see overall and detailed product info, and contribute to a growing database!
 
 ## :heavy_check_mark: Installation
-You can download the .apk file on your android device by clicking the button below. You may need to 'allow installation from unknown sources' if you've previously only installed apps from the Play Store. 
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+    alt="Get it on the Play Store"
+    height="80">](https://play.google.com/store/apps/details?id=app.grocerytrip.android)
+
+You can also download the .apk file directly clicking the button below. You may need to 'Allow installation from unknown sources' if you've previously only installed apps from the Play Store. 
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
@@ -15,30 +19,29 @@ You can download the .apk file on your android device by clicking the button bel
 **You can use the app [Obtainium](https://github.com/ImranR98/Obtainium) to keep GroceryTrip up to date.*
 
 ## 🌟 Features
-- Supports: Trader Joe's receipts (limited), barcode-based receipts (limited)
+- Supports: Trader Joe's receipts, barcode-based receipts (limited)
 - Scan receipts for product details
 - View compiled nutrition facts
 - View ingredients
 - Submit unrecognized barcodes
-- If product data is missing, you can click a product to contribute to the OpenFoodFacts database (directs to their website, Android app links coming soon!) 
-
+- If product data is missing, you can click a product to contribute to the OpenFoodFacts database (Directs to the OFF application if you have it installed) 
 
 ## 🚀 Getting Started
 1. Take a photo of your grocery store receipt (if you don't have one on-hand, you can use the Demo button!)
 2. Crop the image to capture relevant information
-3. Discover overall nutrition, ingredients, and packaging used in your groceries
-4. Contribute barcodes if any are missing (optional)
-
-⚠️ Note: GroceryTrip is in development and is not production-ready. I am working to support more stores and receipt types.
+3. View overall nutrition & ingredients in your groceries
+4. Optionally contribute barcodes if any are missing
+⚠️ Note: GroceryTrip is a work in progress and there are many improvements to be made!
 
 ## 🤝 Contributing
-As the project is not yet open-source, contributions are currently limited to barcode submissions and product data submissions via OpenFoodFacts. To contribute, simply use the app to submit any unrecognized barcodes. This will help improve the overall functionality of the app.
+Non-developers: Any user can contribute barcodes or product data via OpenFoodFacts. 
+Developers: Build the app as any other Flutter application, let me know if you run into issues. 
 
 ## 📋 Todo
 - Create roadmap
-- Deploy to Play Store
-- Support more stores (open to suggestions) and receipt types 
-- Open-source project
+- ~~Deploy to Play Store~~
+- ~~Support more stores (open to suggestions) and receipt types~~
+- ~~Open-source project~~
 - iOS support
 
 ## 📄 License

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929725783421",
+    "firebase_url": "https://grocerytrip-de0c4-default-rtdb.firebaseio.com",
+    "project_id": "grocerytrip-de0c4",
+    "storage_bucket": "grocerytrip-de0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929725783421:android:7c13acd5b6cadb531f8014",
+        "android_client_info": {
+          "package_name": "app.grocerytrip.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929725783421-vrqgj6dtjn59du96sr84ej5uu9b3u1a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-zNr9YnEhXNDJsIzX7GNgfOxVqLE1Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929725783421-vrqgj6dtjn59du96sr84ej5uu9b3u1a0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929725783421-3kvmin118djtol4spni5en1k56tu6ig9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryTrip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

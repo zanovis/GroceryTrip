@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/32601911/230755763-3ed1bb83-a04c-43a6-b9e0-fe8e4dd8a4ed.png" height="206">
 
 # GroceryTrip
-### Turn receipts into nutritional insights. 
+### Turn receipts into nutritional information. 
 
 GroceryTrip is a Flutter app that helps you view the overall nutrition & ingredients of your groceries more comprehensively. Scan receipts to see overall and detailed product info, and contribute to a growing database!
 

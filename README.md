@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/32601911/230755763-3ed1bb83-a04c-43a6-b9e0-fe8e4dd8a4ed.png" height="206">](https://github.com/zanovis/GroceryTrip/releases)
+<img src="https://user-images.githubusercontent.com/32601911/230755763-3ed1bb83-a04c-43a6-b9e0-fe8e4dd8a4ed.png" height="206">
 
 # GroceryTrip
 ### Turn receipts into nutritional insights. 

@@ -24,25 +24,30 @@ You can also download the .apk file directly clicking the button below. You may 
 - View compiled nutrition facts
 - View ingredients
 - Submit unrecognized barcodes
-- If product data is missing, you can click a product to contribute to the OpenFoodFacts database (Directs to the OFF application if you have it installed) 
+- If product data is missing, you can click a product to contribute to the [OpenFoodFacts](https://github.com/openfoodfacts) database (Directs to the OFF application if you have it installed) 
 
-## 🚀 Getting Started
-1. Take a photo of your grocery store receipt (if you don't have one on-hand, you can use the Demo button!)
-2. Crop the image to capture relevant information
-3. View overall nutrition & ingredients in your groceries
-4. Optionally contribute barcodes if any are missing
+## 🚀 How it works
+1. Take a photo of your grocery store receipt (if you don't have one on-hand, you can use the Demo button!) - _This photo remains local on your device, and does not get uploaded._
+3. Crop the image to capture relevant information - _Optical Character Recognition is performed on the cropped image to extract the text, and a database is searched to find each item on the receipt, if the receipt contains a string. Once a match is found (or the receipt contains barcodes), the barcode is searched within the OpenFoodFacts database (nothing is uploaded in this step)._
+4. View overall nutrition & ingredients in your groceries
+5. Optionally contribute barcodes if any are missing, your grocery list and results will automatically update once a barcode has been submitted for a receipt. - _You can choose to upload barcodes to the Firebase database to improve future results. An account is required to submit barcodes._
+
 ⚠️ Note: GroceryTrip is a work in progress and there are many improvements to be made!
 
 ## 🤝 Contributing
 Non-developers: Any user can contribute barcodes or product data via OpenFoodFacts. 
-Developers: Build the app as any other Flutter application, let me know if you run into issues. 
+
+Developers: This repo includes the entire front-end of GroceryTrip. Build the app as any other Flutter application, let me know if you run into issues. 
 
 ## 📋 Todo
 - Create roadmap
 - ~~Deploy to Play Store~~
 - ~~Support more stores (open to suggestions) and receipt types~~
 - ~~Open-source project~~
+- Include Firebase cloud function in git repo to support self-hosted databases
 - iOS support
 
 ## 📄 License
 This project is licensed under the GPLv3 License. See LICENSE for details.
+
+_⚠️ Note: GroceryTrip has no affiliation with any grocery store._
